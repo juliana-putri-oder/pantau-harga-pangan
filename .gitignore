@@ -1,0 +1,8 @@
+# Abaikan folder dependency Composer 
+vendor/
+
+# Abaikan file konfigurasi database atau data sensitif
+.env
+
+# Abaikan file log
+*.log
